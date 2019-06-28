@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
 class MainActivity : AppCompatActivity() {
+    val k = 10
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
