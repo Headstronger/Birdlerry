@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">Birdlerry</string>
+
+    <!-- Для навигации в левом меню -->
+    <string name="name_device">Устройство</string>
+    <string name="name_device_sec">Папки</string>
+
+    <string name="name_vk">Вк</string>
+    <string name="name_vk_sec">Лента фотографий</string>
+
+    <string name="name_settings">Настройки</string>
+
+    <string name="name_share_us">Поделиться</string>
+
+    <string name="name_rait_us">Оценить</string>
+
+    <string name="name_about_app">О приложении</string>
+
+
+    <string name="open_menu">Меню открыто</string>
+    <string name="close_menu">Меню закрыто</string>
+    <string name="title_activity_nav_drawer">nav_drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_nav_draw">nav_draw</string>
+    <string name="title_activity_base_activity">BaseActivity</string>
 </resources>

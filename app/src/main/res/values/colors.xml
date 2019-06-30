@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="color_primary">#008577</color>
+    <color name="color_primary_dark">#00574B</color>
+    <color name="color_accent">#D81B60</color>
+    <color name="colorBlue">#6BCDFA</color>
+    <color name="colorWhite">#FFFFFF</color>
+    
+    <!-- Для левого меню -->
+    <color name="background">#6BCDFA</color>
+    <color name="primary_text">#FFFFFF</color>
+    <color name="secondary_text">#00BCD4</color>
+    <color name="primary_text_inverse">#FFEB3B</color>
+    <color name="secondary_text_inverse">#FF5722</color>
+    <color name="highlight">#4CAF50</color>
 </resources>

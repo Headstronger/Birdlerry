@@ -1,15 +1,15 @@
 package com.nikolayishutin.birdlerry
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.nikolayishutin.birdlerry.activity.BaseActivity
 
-class MainActivity : AppCompatActivity() {
-    val k = 10
-
+class MainActivity : BaseActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        leftMenu()
 
     }
 }
+
